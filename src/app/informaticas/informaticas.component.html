@@ -1,0 +1,16 @@
+<section class="content-header">
+  <h1>
+    Todos os produtos
+  </h1>
+</section>
+ 
+<section class="content">
+
+  <div class="row" id="corpo">
+    <div *ngFor="let informatica of informaticas">
+      <mt-informatica [informatica]="informatica"></mt-informatica>
+    </div>
+
+  </div>
+
+</section>

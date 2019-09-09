@@ -1,0 +1,25 @@
+
+#titulo{
+    
+    margin-left: 25%;
+    margin-top: 30px;
+    width: 45%;
+
+}
+
+.row {
+    margin: 10px;
+}
+
+#container{
+    position: relative;
+    margin-left: 20%;
+    margin-right: 10%;   
+    margin-left: 25%;
+    margin-top: 3%;
+}
+#botoes{
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-top: 3%;
+}

@@ -1,0 +1,476 @@
+{
+  "informaticas": [
+    {
+      "id": "notebook",
+      "name": "Notebooks",
+      "category": "Computadores",
+      "deliveryEstimate": "25m",
+      "rating": 4.9,
+      "imagePath": "assets/img/informaticas/notebooks.jpg",
+      "about": "A Bread & Brakery tem 40 anos de mercado. Fazemos os melhores doces e pães. Compre e confira.",
+      "hours": "Funciona de segunda à sexta, de 8h às 23h"
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "category": "Acessórios",
+      "deliveryEstimate": "100m",
+      "rating": 3.5,
+      "imagePath": "assets/img/informaticas/mouses2.jpg",
+      "about": "40 anos se especializando em trash food.",
+      "hours": "Funciona todos os dias, de 10h às 22h"
+    },
+    {
+      "id": "teclado",
+      "name": "Teclados",
+      "category": "Acessórios",
+      "deliveryEstimate": "30-40m",
+      "rating": 4.8,
+      "imagePath": "assets/img/informaticas/teclados.jpg",
+      "about": "A Coffe Corner foi eleita a melhor cafeteria da cidade.",
+      "hours": "Funciona de segunda à sábado, de 6h às 22h"
+    },
+    {
+      "id": "gabinete",
+      "name": "Gabinetes",
+      "category": "Computadores",
+      "deliveryEstimate": "75m",
+      "rating": 4.1,
+      "imagePath": "assets/img/informaticas/gabinetes.jpg",
+      "about": "Comida saudável é no Green Food. Compramos barato, vendemos caro. ;)",
+      "hours": "Somente em horário de almoço, das 11h às 15h"
+    },
+    {
+      "id": "desktop",
+      "name": "Desktop",
+      "category": "Computadores",
+      "deliveryEstimate": "40-65m",
+      "rating": 4.5,
+      "imagePath": "assets/img/informaticas/desktops.jpg",
+      "about": "A Ice Cream é uma sorveteria inovadora.",
+      "hours": "Funciona todos os dias, de 10h às 1h"
+    }
+  ],
+  "menu": [
+    {
+      "id": "note1",
+      "imagePath": "assets/img/produtos/laptop1.jpg",
+      "name": "Notebook CCE",
+      "description": "Processador i5/ Ram 4GB/ HD 500GB /Tela 14' ",
+      "price": 1400,
+      "informaticaId": "notebook"
+    },
+    {
+      "id": "note2",
+      "imagePath": "assets/img/produtos/laptop2.jpg",
+      "name": "Notebook Samgsung",
+      "description": "Processador i5/ Ram 8GB/ HD 500GB /Tela 14' ",
+      "price": 1800,
+      "informaticaId": "notebook"
+    },
+    {
+      "id": "note3",
+      "imagePath": "assets/img/produtos/laptop3.jpg",
+      "name": "Notebook Samgsung",
+      "description": "Processador i7/ Ram 8GB/ HD 1TB /Tela 15.9' ",
+      "price": 2500,
+      "informaticaId": "notebook"
+    },
+    {
+      "id": "note4",
+      "imagePath": "assets/img/produtos/laptop4.jpg",
+      "name": "Notebook CCE",
+      "description": "Processador i7/ Ram 8GB/ HD 1TB /Tela 17'/Placa dedicada AMD ",
+      "price": 3300,
+      "informaticaId": "notebook"
+    },
+    {
+      "id": "mouse1",
+      "imagePath": "assets/img/produtos/mouse1.jpg",
+      "name": "Mouse Multlaser",
+      "description": "Com fio/ Modelo MO205/ Cor Preto/ USB 2.0/ 2.3 GHz.",
+      "price": 18.5,
+      "informaticaId": "mouse"
+    },
+    {
+      "id": "mouse2",
+      "imagePath": "assets/img/produtos/mouse2.jpg",
+      "name": "Mouse Multlaser",
+      "description": "Mouse sem fio/ Modelo MO212/ Cor Preto/ USB 2.0/ 2.3 GHz.",
+      "price": 33.5,
+      "informaticaId": "mouse"
+    },
+    {
+      "id": "mouse3",
+      "imagePath": "assets/img/produtos/mouse3.jpg",
+      "name": "Mouse Motorola",
+      "description": "Mouse Óptico Gamer USB G203.",
+      "price": 50,
+      "informaticaId": "mouse"
+    },
+    {
+      "id": "mouse4",
+      "imagePath": "assets/img/produtos/mouse4.jpg",
+      "name": "Mouse Motorola",
+      "description": "Mouse Óptico Gamer USB G205.",
+      "price": 55,
+      "informaticaId": "mouse"
+    },
+    {
+      "id": "mouse5",
+      "imagePath": "assets/img/produtos/mouse6.jpg",
+      "name": "Mouse Gamemax",
+      "description": "Marca OEX/ Modelo MC101/ Cabo de 1.6 metros/ Superfície emborrachada.",
+      "price": 67,
+      "informaticaId": "mouse"
+    },
+    {
+      "id": "Teclado",
+      "imagePath": "assets/img/produtos/teclado.jpg",
+      "name": "Teclado Multilaser",
+      "description": "Teclado game/ cor preta/ luses noturna.",
+      "price": 90,
+      "informaticaId": "teclado"
+    },
+    {
+      "id": "Teclado1",
+      "imagePath": "assets/img/produtos/teclado1.jpg",
+      "name": "Teclado Philco",
+      "description": "Teclado game/ cor preta/ luses noturna. ",
+      "price": 120,
+      "informaticaId": "teclado"
+    },
+    {
+      "id": "Teclado2",
+      "imagePath": "assets/img/produtos/teclado2.jpg",
+      "name": "Teclado Philco",
+      "description": "Teclado game/ cor preta/ luses noturna azul. ",
+      "price": 120,
+      "informaticaId": "teclado"
+    },
+    {
+      "id": "Teclado3",
+      "imagePath": "assets/img/produtos/teclado3.jpg",
+      "name": "Teclado Philco",
+      "description": "Teclado game/ cor preta. ",
+      "price": 80,
+      "informaticaId": "teclado"
+    },
+    {
+      "id": "gabinete",
+      "imagePath": "assets/img/produtos/gabinete.jpg",
+      "name": "Gabinete Geforce GTX",
+      "description": "Gabinete com motherboard ASUS DDR4 Chepset Intel",
+      "price": 1800,
+      "informaticaId": "gabinete"
+    },
+    {
+      "id": "gabinete1",
+      "imagePath": "assets/img/produtos/gabinete1.jpg",
+      "name": "Gabinete Game Matrix",
+      "description": "Gabinete com motherboard ASUS/ DDR4 Chepset Intel/Ram 16GB",
+      "price": 2030,
+      "informaticaId": "gabinete"
+    },
+    {
+      "id": "gabinete2",
+      "imagePath": "assets/img/produtos/gabinete2.jpg",
+      "name": "Gabinete K-Max",
+      "description": "Gabinete com motherboard ASUS Rog Maximo/ DDR4 Chepset Intel/Ram 16GB",
+      "price": 2370,
+      "informaticaId": "gabinete"
+    },
+    {
+      "id": "Desktop",
+      "imagePath": "assets/img/produtos/computador.jpg",
+      "name": "Desktop Samsung",
+      "description": "Processador i5/Ram 8GB/ SSD 500GB/ Monitor 20 polegadas ",
+      "price": 3700,
+      "informaticaId": "desktop"
+    },
+    {
+      "id": "Desktop1",
+      "imagePath": "assets/img/produtos/computador1.jpg",
+      "name": "Desktop Dell",
+      "description": "Processador i7/Ram 16GB/ HD 2TB/ Monitor 22 polegadas.",
+      "price": 4000,
+      "informaticaId": "desktop"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Julia",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4.5,
+      "comments": "Tudo muito bom, entrega no tempo certo",
+      "informaticaId": "notebook"
+    },
+    {
+      "name": "Aline",
+      "date": "2016-12-12T18:25:43",
+      "rating": 3,
+      "comments": "NÃO recomendo. O recheio é só um creme, não tem camarão e nem carne",
+      "informaticaId": "notebook"
+    },
+    {
+      "name": "Renata",
+      "date": "2016-12-12T18:25:43",
+      "rating": 2,
+      "comments": "Não foi muito agradável ao nosso paladar, e eu e meu esposo no outro dia passamos super mal. Pode até ter sido outra coisa, mas...",
+      "informaticaId": "notebook"
+    },
+    {
+      "name": "Renata",
+      "date": "2016-12-12T18:25:43",
+      "rating": 5,
+      "comments": "Nunca deixou na mão, comida sempre deliciosa.",
+      "informaticaId": "notebook"
+    },
+    {
+      "name": "Daniela",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4,
+      "comments": "Sanduíche muito bom! Já pedi diversas vezes sempre bom!",
+      "informaticaId": "teclado"
+    },
+    {
+      "name": "Laila",
+      "date": "2017-02-02T18:25:43",
+      "rating": 5,
+      "comments": "Melhor hambúrguer que já provei. Vai ser difícil voltar para mc e bk",
+      "informaticaId": "teclado"
+    },
+    {
+      "name": "Suzana",
+      "date": "2016-12-12T18:25:43",
+      "rating": 3.5,
+      "comments": "Meu sanduíche chegou frio e todo desmontado =\\",
+      "informaticaId": "teclado"
+    },
+    {
+      "name": "Eric",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4.5,
+      "comments": "Excelente opção! Recomendo!",
+      "informaticaId": "mouse"
+    },
+    {
+      "name": "Amanda",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "Demorou muito e o café veio gelado",
+      "informaticaId": "mouse"
+    },
+    {
+      "name": "Carla",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4.8,
+      "comments": "Tudo perfeito. Entrega, embalagem, comida. Resultado? Melhor custo beneficio",
+      "informaticaId": "mouse"
+    },
+    {
+      "name": "Rodrigo",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4,
+      "comments": "Muito rápida a entrega, mas é caro.",
+      "informaticaId": "mouse"
+    },
+    {
+      "name": "André",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4.5,
+      "comments": "Excelente como sempre!",
+      "informaticaId": "mouse"
+    },
+    {
+      "name": "João",
+      "date": "2017-01-23T18:25:43",
+      "rating": 5,
+      "comments": "Excelente. Fiz o pedido com outro endereço e quando vi o erro liguei avisando. O motoqueiro cortou a cidade todinha e a comida ainda chegou quentinha (e deliciosa). Estou sempre pedindo e recomendando",
+      "informaticaId": "gabinete"
+    },
+    {
+      "name": "Marcelo",
+      "date": "2017-02-02T18:25:43",
+      "rating": 4.5,
+      "comments": "Chegou muito rápido, antes mesmo da previsão",
+      "informaticaId": "gabinete"
+    },
+    {
+      "name": "Fatinha",
+      "date": "2017-01-23T18:25:43",
+      "rating": 2,
+      "comments": "Ñ gostei dos sabores q pedi e achei o preço muito elevado",
+      "informaticaId": "gabinete"
+    },
+    {
+      "name": "Lucas",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "Esperar 1:45hr pra receber o pedido é INACEITÁVEL",
+      "informaticaId": "gabinete"
+    },
+    {
+      "name": "Jacira",
+      "date": "2017-02-01T18:25:43",
+      "rating": 4.5,
+      "comments": "Veio OK!",
+      "informaticaId": "gabinete"
+    },
+    {
+      "name": "Ana",
+      "date": "2017-01-23T18:25:43",
+      "rating": 5,
+      "comments": "Rápido e sempre uma delicia!! Ja pedi 3x e sempre veio rapido e tudo certinho.",
+      "informaticaId": "desktop"
+    },
+    {
+      "name": "Larissa",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "A taxa de entrega poderia ser mais barata.",
+      "informaticaId": "desktop"
+    },
+    {
+      "name": "Jarbas",
+      "date": "2016-12-15T18:25:43",
+      "rating": 4.7,
+      "comments": "Excelente e chegou muito rápido!",
+      "informaticaId": "desktop"
+    },
+    {
+      "name": "Rafaela",
+      "date": "2017-01-12T18:25:43",
+      "rating": 5,
+      "comments": "Chegou rápido e perfeito!",
+      "informaticaId": "desktop"
+    },
+    {
+      "name": "Julia",
+      "date": "2016-12-12T18:25:43",
+      "rating": 1.5,
+      "comments": "Sempre gostei muito dos pedidos que eu fiz, mas dessa vez foi péssimo e decepcionou muito. Demorou 30min a mais pra chegar do que o tempo máximo esperado.",
+      "informaticaId": "desktop"
+    },
+    {
+      "name": "Marília",
+      "date": "2016-12-20T18:25:43",
+      "rating": 4.5,
+      "comments": "Taxa de entrega bastante elevada e precisa colocar no app se a pessoa quer porção adicional de algo (calda, crocante etc)",
+      "informaticaId": "desktop"
+    }
+  ],
+  "orders": [
+    {
+      "address": "ddddd",
+      "namber": "222",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        },
+        {
+          "quantity": 1,
+          "menuId": "donut"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "ffffff",
+      "namber": "12",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "sunday"
+        },
+        {
+          "quantity": 1,
+          "menuId": "chocpop"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "sssss",
+      "namber": "11",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "address": "aaaaaa",
+      "namber": "111",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "address": "sssss",
+      "namber": "1111",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "address": "asasass",
+      "namber": "1212",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "mouse2"
+        },
+        {
+          "quantity": 1,
+          "menuId": "mouse3"
+        },
+        {
+          "quantity": 1,
+          "menuId": "mouse4"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "address": "asadssas",
+      "namber": "122",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "note3"
+        },
+        {
+          "quantity": 1,
+          "menuId": "note4"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
